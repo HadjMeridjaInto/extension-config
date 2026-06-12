@@ -1,1 +1,56 @@
-
+{
+  "team": [
+    { "id": "U086RQMKABG", "name": "Hadj" },
+    { "id": "U067QVBBG4U", "name": "Adnane" },
+    { "id": "U04TC749Z98", "name": "Seb B" },
+    { "id": "U098HMJM8N5", "name": "Darine" },
+    { "id": "U0AEZ17M7BQ", "name": "Rihab" },
+    { "id": "U07AG2GH6JK", "name": "Imad" },
+    { "id": "U090GJGK69H", "name": "Chantal" },
+    { "id": "U0AN5TU1LV8", "name": "Reda" },
+    { "id": "U05J08FDKQS", "name": "Nesrine" },
+    { "id": "U0B7YUVHN0J", "name": "Kiyoshi" }
+  ],
+  "issue_types": [
+    "Door Access",
+    "Extension payment link",
+    "Cleaning Issue",
+    "Maintenance",
+    "Invoice request",
+    "Refund request",
+    "Loyalty discount",
+    "Other",
+    "Guest feedback",
+    "Add to knowledge base",
+    "Key Handout",
+    "Listing Mismatch",
+    "Guest request",
+    "Early checkin",
+    "Late checkout",
+    "Payment",
+    "Heating",
+    "Security",
+    "Missing items"
+  ],
+  "companies": {
+    "vista": {
+      "label": "Viata Home",
+      "statuses": [
+        "Vista",
+        "Vista-Home to do's for the future",
+        "INTO",
+        "Backup key handout",
+        "Waiting for guest update",
+        "Invoices to be sent by INTO"
+      ]
+    },
+    "onepercent": {
+      "label": "One Percent",
+      "statuses": [
+        "The 1%Bnb Team",
+        "INTO",
+        "Waiting for guest update"
+      ]
+    }
+  }
+}
